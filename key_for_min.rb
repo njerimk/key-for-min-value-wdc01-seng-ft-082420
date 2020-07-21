@@ -16,4 +16,4 @@ end
     
 hash_1 = {:blake => 500, :ashley => 2, :adam => 1}
 hash_2 = {:blake => 10, :ashley => 50, :adam => 17}
-key_for_min_value(empty_hash)
+key_for_min_value(hash_1)
