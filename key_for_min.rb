@@ -11,7 +11,7 @@ name = ""
       name = key
     end
   end
-  puts name
+  name
 end  
     
 hash_1 = {:blake => 500, :ashley => 2, :adam => 1}
